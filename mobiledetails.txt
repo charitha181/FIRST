@@ -1,3 +1,5 @@
 name : realme
 version : 4.0
 cost : 17000
+
+version : 6.0
